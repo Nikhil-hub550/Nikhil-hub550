@@ -7,13 +7,15 @@
 
 - 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **API**
+- 🌱 I’m currently learning **NodeJS and ExpressJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nikhil-hub550](https://github.com/Nikhil-hub550)
 
 - 💬 Ask me about **Anything related to full stack web development**
 
 - 📫 How to reach me **Through my social links below**
+
+- 📄 Resume [https://drive.google.com/file/d/1Z-eTcG6_w5xy_bpwvEcX8qIdEBCdWKt4/view?usp=sharing](https://drive.google.com/file/d/1Z-eTcG6_w5xy_bpwvEcX8qIdEBCdWKt4/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
@@ -22,6 +24,7 @@
 <a href="https://twitter.com/nikhil20073" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nikhil20073" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikhil-rai-0710" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nikhil-rai-0710" height="30" width="40" /></a>
 <a href="https://instagram.com/nikhilrai_2007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nikhilrai_2007" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rainikhil0987" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rainikhil0987" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
