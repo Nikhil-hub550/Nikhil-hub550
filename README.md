@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Through my social links below**
 
-- 📄 Resume [https://drive.google.com/file/d/1Z-eTcG6_w5xy_bpwvEcX8qIdEBCdWKt4/view?usp=sharing](https://drive.google.com/file/d/1Z-eTcG6_w5xy_bpwvEcX8qIdEBCdWKt4/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1JJ1qeovuF9SR7YUtsvpdswYL-YKcYgpr/view?usp=sharing](https://drive.google.com/file/d/1JJ1qeovuF9SR7YUtsvpdswYL-YKcYgpr/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
