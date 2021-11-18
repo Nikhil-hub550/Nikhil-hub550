@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil-hub550" alt="nikhil-hub550" /></a> </p>
 
-- 🔭 I’m currently working on **MERN**
+- 🔭 I’m currently working on **Angular**
 
 - 🌱 I’m currently learning **NodeJS and ExpressJS**
 
