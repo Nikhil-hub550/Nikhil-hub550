@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil-hub550" alt="nikhil-hub550" /></a> </p>
 
-- 🔭 I’m currently working on **Angular**
+- 🔭 🔭 I’m currently working on something cool 😉
 
-- 🌱 I’m currently learning **NodeJS and ExpressJS**
+- 🌱 I’m currently learning everything 😂
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nikhil-hub550](https://github.com/Nikhil-hub550)
 
