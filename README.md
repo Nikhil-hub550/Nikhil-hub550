@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nikhil-hub550](https://github.com/Nikhil-hub550)
 
-- 💬 Ask me about **Anything related to full stack web development**
+- 💬 Ask me about **Anything related to full stack development**
 
 - 📫 How to reach me **Through my social links below**
 
